@@ -10,8 +10,7 @@ INTERMEDIATE LEVEL taSK
 Create a Registration Form whose data display in same page  USING HTML, CSS & JS or react js
 
 ### project:-WEATHER DASHBOARD
-![image](https://github.com/user-attachments/assets/40421dd9-09fd-4a91-8a1e-063f48de7286)
-![image](https://github.com/user-attachments/assets/4a027883-dea9-47e3-af2e-5399ed2df5f3)
+![image](https://github.com/user-attachments/assets/242003c1-23ca-46a7-8d5f-491c27fb51a2)
 
 ### Objective:-
 Working :-
